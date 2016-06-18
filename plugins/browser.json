@@ -1,0 +1,24 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "com.DrLaundry"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.gocak"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "com.gocak"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "com.gocak"
+        }
+    },
+    "dependent_plugins": {}
+}
